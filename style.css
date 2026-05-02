@@ -1,0 +1,74 @@
+/* ===== GLOBAL STYLES ===== */
+body {
+  font-family: Arial;
+  padding: 30px;
+  background: #f5f8fa;
+  margin: 0;
+}
+
+/* ===== MAIN CONTAINER ===== */
+.container {
+  width: 400px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+/* ===== TEXTAREA INPUT ===== */
+textarea {
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  font-size: 16px;
+  resize: none;
+  box-sizing: border-box;
+}
+
+/* ===== BUTTON & COUNTER ROW ===== */
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+/* ===== POST BUTTON ===== */
+button {
+  padding: 10px 20px;
+  background: #1da1f2;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+/* ===== POST DISPLAY AREA ===== */
+#postDisplay {
+  margin-top: 20px;
+  padding: 15px;
+  background: #eef3f7;
+  border-radius: 8px;
+}
+
+/* ===== WARNING STYLE ===== */
+.warning {
+  color: red;
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+@media (max-width: 500px) {
+  .container {
+    width: 90%;
+  }
+
+  button {
+    padding: 8px 14px;
+    font-size: 14px;
+  }
+
+  textarea {
+    font-size: 14px;
+  }
+}
