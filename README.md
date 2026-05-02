@@ -53,3 +53,21 @@ This project was built to practice:
 ---
 
 ## 📂 Project Structure
+index.html style.css script.js README.md 
+
+## 🔗 Live Demo
+https://japhet996sunday-cell.github.io/twitter-post-clone/
+
+## 👨‍💻 Author
+
+Japhet Sunday  
+Frontend Development Learner
+
+---
+
+## 📌 Future Improvements
+
+- Add multiple posts (like real Twitter feed)
+- Add delete button for posts
+- Add timestamps
+- Add user profile section
