@@ -9,6 +9,7 @@ It allows users to type a post, see live character count, and display the posted
 
 - Live character counter (0 / 200 limit)
 - Warning indicator when approaching limit
+- 
 - Post preview display
 - Input validation (no empty posts)
 - Fully responsive design (mobile friendly)
@@ -57,6 +58,9 @@ index.html style.css script.js README.md
 
 ## 🔗 Live Demo
 https://japhet996sunday-cell.github.io/twitter-post-clone/
+
+## 📂 Repository Link
+https://github.com/japhet996sunday-cell/twitter-post-clone
 
 ## 👨‍💻 Author
 
